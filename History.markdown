@@ -1,6 +1,6 @@
 ## THE WEB
 
-### Documentation
+### About
 
   * The internet is a an ocean, large, deep, unknown but also quite interesting. I enjoy surfing and deep sea diving. I'm building a map of the places I visit and thing I find iteresting
 

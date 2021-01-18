@@ -18,7 +18,7 @@
 
 ### INTERESTING BLOGS I SKIMMED THROUGH
 
-  * Daniel Gross Blog is a gem <a hreff="https://dcgross.com"<a/>
+  * Daniel Gross Blog is a gem https://dcgross.com
   
 ### THE INTERNET IS NOT THAT BAD AFTER ALL
 
